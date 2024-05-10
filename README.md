@@ -10,3 +10,11 @@ Contains 17.45 crore entries of data with 24 columns.
 Columns include details like Pickup Time, Drop Time, Trip Miles, and Trip Time.
 Link to the Data set:
      https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forhire-vehicles-trip-data-2021
+<img width="761" alt="image" src="https://github.com/sharanya123-khanderao/Uber-For-Hire-vehicles-in-NYC/assets/83499909/25ab06c0-a9ca-4ef1-a904-01cc21d97f0f">
+
+Expected Results:
+What time of the day do users request most taxis?
+Average distance traveled by taxi.	
+Taxi zone where more taxis are requested.
+Percentage of wheelchair-accessible vehicles requested.
+Insights about shared rides.
