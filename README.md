@@ -33,3 +33,15 @@ Shar@2303
 Link to project access: 
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2228397202891690/93080512763204/6938215192770554/latest.html
+
+Conclusions:
+
+The project delivered comprehensive insights into Uber's operational challenges and opportunities in NYC. Key findings include:
+
+Strategic Vehicle Deployment: Data-driven strategies were developed for positioning vehicles in high-demand areas during peak times to reduce customer wait times and optimize trip efficiency.
+Service Improvement Opportunities: Identification of frequent delays in certain zones led to recommendations for operational adjustments to enhance service reliability.
+Enhanced Customer Service: Analysis of service delays and accessibility options provided a foundation for improving customer satisfaction, particularly for disabled passengers.
+
+Outcomes:
+
+This analysis provides Uber with important outcomes to help it plan strategically, giving specific suggestions on how to improve operations, make customers happy and meet all regulations. Through the project’s findings, it is hoped that Uber will tweak its services and be able to satisfy varied customers in NYC.
