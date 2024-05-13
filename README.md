@@ -17,6 +17,9 @@ Wheelchair Accessibility: The demand for wheelchair-accessible vehicles was spec
 Technical Environment:
 This analysis was conducted in Databricks, utilizing the PySpark framework to handle and process large-scale data efficiently. Databricks provided a robust, scalable cloud platform ideal for performing intensive data manipulations and visualizations required by this project.For a thorough execution of the analysis, it is required to access the Databricks community edition platform by logging into the provided account.
 databricks credentials :
+
 khanderaosharanya033@gmail.com
+
 Shar@2303
+
 Link to project access: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2228397202891690/93080512763204/6938215192770554/latest.html
