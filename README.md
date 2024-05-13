@@ -39,7 +39,9 @@ Conclusions:
 The project delivered comprehensive insights into Uber's operational challenges and opportunities in NYC. Key findings include:
 
 Strategic Vehicle Deployment: Data-driven strategies were developed for positioning vehicles in high-demand areas during peak times to reduce customer wait times and optimize trip efficiency.
+
 Service Improvement Opportunities: Identification of frequent delays in certain zones led to recommendations for operational adjustments to enhance service reliability.
+
 Enhanced Customer Service: Analysis of service delays and accessibility options provided a foundation for improving customer satisfaction, particularly for disabled passengers.
 
 Outcomes:
