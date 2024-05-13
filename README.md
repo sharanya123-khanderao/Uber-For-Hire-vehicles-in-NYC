@@ -1,14 +1,14 @@
 Introduction:
 
-In a busy city like New York, need for frequent travel arrangement is essential for daily activities carried out by people living within the city. Taxi and Limousine Commission responsible for managing all taxi movement to ensure that they operate effectively. Uber is a major stakeholder in such an arrangement by ensuring that over a day’s time this kind of transport handles more than ten trips(CITE). If the quality of services is to improve then managers must comprehend operational characteristics of Uber as well as customer behavior or service efficiency such are some areas that need deeper understanding.
+In a busy city like New York, need for frequent travel arrangement is essential for daily activities carried out by people living within the city. Taxi and Limousine Commission(TLC) are responsible for managing all taxi movement to ensure that they operate effectively. Uber is a major stakeholder in such an arrangement by ensuring that over a day’s time this kind of transport handles more than ten trips(CITE). If the quality of services is to improve then managers must comprehend operational characteristics of Uber as well as customer behavior or service efficiency such are some areas that need deeper understanding.
 
 The project is for the in-depth investigation of Uber's operational data. The information was collected from Kaggle and the data comprises 17.45 crore entries, spread out over 24 columns that cut across pickup time and drop time, trip miles’ and durations. In our dataset there are 12 files in parquet format with each file corresponding to data from a specific month. Each file is exactly 300 MB in size, resulting in a total file size of around 3.6 GB. 
 
 Approach:
 
-Initially, we imported the data from each individual file. Then, we merged them into a single DataFrame using the 'union' operation.The main focus of this project will be doing data processing using PySpark with the help of Databricks software, throughout which the:
+Initially, we imported the data from each individual file. Then, we merged them into a single DataFrame using the 'union' operation.The main focus of this project will be doing data processing using PySpark with the help of Databricks software, throughout which these steps are done:
 
-Data Cleaning: Initially, the dataset  was rigorously cleaned using PySpark. This involved filtering out incomplete records, correcting data entry errors, and dealing with anomalies in trip times and distances that could skew analysis results.
+Data Cleaning: The dataset  was rigorously cleaned using PySpark. This involved filtering out incomplete records, correcting data entry errors, and dealing with anomalies in trip times and distances that could skew analysis results.
 
 Data Visualization: Created insightful visual representations of data to identify patterns and anomalies.
 
@@ -36,7 +36,9 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 Conclusions:
 
-The project delivered comprehensive insights into Uber's operational challenges and opportunities in NYC. Key findings include:
+The project delivered comprehensive insights into Uber's operational challenges and opportunities in NYC. 
+
+Key findings include:
 
 Strategic Vehicle Deployment: Data-driven strategies were developed for positioning vehicles in high-demand areas during peak times to reduce customer wait times and optimize trip efficiency.
 
