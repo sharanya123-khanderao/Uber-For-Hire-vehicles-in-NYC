@@ -49,3 +49,9 @@ Enhanced Customer Service: Analysis of service delays and accessibility options 
 Outcomes:
 
 This analysis provides Uber with important outcomes to help it plan strategically, giving specific suggestions on how to improve operations, make customers happy and meet all regulations. Through the project’s findings, it is hoped that Uber will tweak its services and be able to satisfy varied customers in NYC.
+
+Steps we did to execute project:
+1. login to databricks community edition
+2. In Catalog - uploaded all parquet and csv files in DBFS
+3. In compute section created a working cluster
+4. opened a new notebook , started our analysis and executed each cell. (It took almost 4-5 mins to execute each cell).
